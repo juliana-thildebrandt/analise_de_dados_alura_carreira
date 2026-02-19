@@ -1,14 +1,13 @@
-# Imersão Alura — Dados com Python
+# Carreira Alura — Análise de Dados
 
-Repositório criado para acompanhar a **Imersão da Alura** focada em **análise de dados com Python**.
-
-Aqui serão organizados os códigos, exercícios e anotações desenvolvidos ao longo das aulas.
-
-## Conteúdo
-- Aula 01 — Explore Dados com Pandas
-- Aula 02 — Limpe e Prepare os Dados
-- Aula 03 — Crie Gráficos e Conte Histórias com Dados
-- Aula 04 — Construa um Dashboard Interativo
+## Conteúdo: Base Python, Estatística, SQL e Excel
+- 01 Python para Dados: primeiros passos
+    - Realizado downloads dos notebooks da aula + excercicios
+    - Leitura de artigos relacionados
+- 02 Python para Dados: trabalhando com funções, estruturas de dados e exceções
+- 03 Estatística com Python: frequências e medidas
+- 04 SQLite online: conhecendo 
+- 05 Excel: domine editor de planilhas
 
 ## Status
 Em andamento 🚀

@@ -9,5 +9,14 @@
 - 04 SQLite online: conhecendo 
 - 05 Excel: domine editor de planilhas
 
+# Links úteis 
+- Documentação Python (gratuito, inglês, documentação) > https://www.python.org/doc/ 
+- Lista de Exercícios Python (gratuito, português, código) > https://python.org.br/
+- Relacionado a linguagen Markdow > https://onlinemarkdowneditor.dev/
+    * guia de sintaxe > https://onlinemarkdowneditor.dev/syntax-guide-for-markdown/
+    * documentação oficial > https://daringfireball.net/projects/markdown/syntax
+
+
+
 ## Status
 Em andamento 🚀

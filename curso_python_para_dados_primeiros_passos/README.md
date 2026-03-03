@@ -4,6 +4,7 @@
 - 01 Python para Dados: primeiros passos
     - Realizado downloads dos notebooks da aula + excercicios
     - Leitura de artigos relacionados
+    - Variaveis
 - 02 Python para Dados: trabalhando com funções, estruturas de dados e exceções
 - 03 Estatística com Python: frequências e medidas
 - 04 SQLite online: conhecendo 
